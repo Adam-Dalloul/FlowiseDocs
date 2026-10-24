@@ -5,7 +5,7 @@ description: Wrapper around EmpirioLabs chat models that use the OpenAI compatib
 # ChatEmpirioLabs
 
 ## Description
-[EmpirioLabs](https://empiriolabs.ai) is a unified inference platform that provides access to frontier chat models such as Qwen3.7, DeepSeek V4, GLM-5.1, Kimi K2.7 Code, and MiniMax M3 through a single OpenAI compatible API. The ChatEmpirioLabs node lists the available chat models for you and streams responses out of the box.
+[EmpirioLabs AI](https://empiriolabs.ai) is specialized AI model hosting for open, proprietary, and custom stacks. The ChatEmpirioLabs node lists the available chat models for you and streams responses out of the box.
 
 ## Prerequisite
 1. Refer to the official [EmpirioLabs documentation](https://docs.empiriolabs.ai).
